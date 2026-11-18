@@ -8,6 +8,8 @@ driven by a **Digital Twin** of the asset state, and compares intervention packa
 **Everything numeric is illustrative** (`model/config.py`, `data/*.csv`): distances, speeds, battery size, charger power,
 headways, costs. They make the structure runnable; they are not Metlink/KiwiRail/Alstom data and the results must not be quoted as findings.
 
+![Wellington Battery-Electric Railway Digital Twin Architecture](architecture.png)
+
 ## Open the results (no Python needed)
 `results/dashboard.html` - double-click. Choose severity/duration, target and feasibility, tick packages to compare.
 Also `results/figures/*.png`, `results/experiment_grid.csv`, `results/recommendations.csv`.
