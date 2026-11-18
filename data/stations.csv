@@ -1,0 +1,12 @@
+station_id,name,line,chainage_km,latitude,longitude,role,dwell_min,charger_count,mode_change
+WEL,Wellington,BOTH,0,-41.2785,174.7806,origin,0,2,0
+UHT,Upper Hutt,WAI,36,-41.1244,175.0710,intermediate,1,0,1
+FEA,Featherston,WAI,64,-41.1135,175.3240,loop,1,0,0
+CAR,Carterton,WAI,78,-41.0268,175.5278,loop,1,0,0
+MAS,Masterton,WAI,91,-40.9462,175.6603,terminal,1,1,0
+POR,Porirua,MAN,22,-41.1360,174.8405,intermediate,1,0,0
+PAR,Paraparaumu,MAN,41,-40.9136,175.0059,intermediate,1,0,0
+WKN,Waikanae,MAN,55,-40.8783,175.0620,intermediate,1,0,1
+LEV,Levin,MAN,94,-40.6209,175.2853,loop,1,0,0
+SHA,Shannon,MAN,109,-40.5536,175.4129,loop,1,0,0
+PNO,Palmerston North,MAN,136,-40.3543,175.6078,terminal,1,1,0

@@ -1,0 +1,3 @@
+kind,asset,start_min,end_min,value
+ohl_outage,WAI:0,420,540.0,1.0
+cold_weather,*,420,540.0,1.1

@@ -1,0 +1,3 @@
+severity,duration_h,interventions,cost_nzd_m_yr,feasibility,reps,service_pct,otp5_window_pct,otp5_day_pct,mean_delay_min,p95_delay_min,cancelled_services,strandings,min_soc_pct,passenger_delay_h,charger_wait_min,charger_util_pct,recovery_h,holds,services_in_window,service_pct_sd
+BASE,1,None,0.0,5,8,100.0,91.66666666666667,92.0138888888889,0.7550070918995804,4.967022923206179,0.0,0.0,21.725654150756213,159.23576113031135,0.0,16.787494827209933,0.0,0.0,12.0,0.0
+BASE,1,C,0.15,4,8,100.0,91.66666666666667,92.0138888888889,0.7550070918995804,4.967022923206179,0.0,0.0,16.564740559334663,159.23576113031135,0.0,10.812449306648064,0.0,0.0,12.0,0.0
